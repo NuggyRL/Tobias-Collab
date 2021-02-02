@@ -16,4 +16,13 @@ testing()
 # ok nå pusher jeg changen phlog
 
 
-ok nå pusher jeg
+# kan ikke save
+# tror du er den eneste som kan pushe
+# nei det funker
+# hvis jeg trykker på pull så henter jeg de siste endringene du har laget pog
+# så da kan jeg trykke på pull hvis du har uploada noen endringer
+# prøv det men denne teksten når jeg pusher det
+# ok?
+# hvis du ikke kan pushe noen endringer kan du pulle endringer hvis det er endringer availible
+# er samme knapp ja fordi jeg ikke har pusha dette enda 1 sec
+# uh, skjønner ikke helt, dette er live for meg :| jeg kan bare fetche å kæi
