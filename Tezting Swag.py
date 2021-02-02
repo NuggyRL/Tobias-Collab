@@ -13,4 +13,4 @@ def testing():
 testing()
 
 # hvordan starter man her? no idea men ja vi må jo egt bare lage koden fordi vi kan paste den
-# ok nå pusher jeg changen
+# ok nå pusher jeg changen phlog
